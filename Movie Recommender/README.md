@@ -3,7 +3,6 @@
 <font size="+4">Daniel Gomes Benjamim Rodrigues</font><br>
 <font size="+1.6">&#160;27 anos, brasileiro</font>
 <p>&nbsp;</p>
-
 For this project, it's used the dataset ml-latest-small downloaded from movielens.org. 
 
 ### The Profile Recommender notebook is a notebook that uses the dataset mentioned above to create a genre's rating profile. Then it gets the similarity cosine between each user
