@@ -60,9 +60,9 @@ def getting_and_plotting_genres(dataframe, df_merged, show):
         plt.xticks(rotation=85, fontsize = 15)
         plt.yticks(fontsize = 15)
         plt.xticks(x_axis, x_label)
-        plt.ylabel("Ocorrências", fontsize = 24, labelpad = 0)
+        plt.ylabel("Ocurrences", fontsize = 24, labelpad = 0)
         ax2.bar(x_axis, y_axis, align = 'center')
-        plt.title("Popularidade dos gêneros",bbox={'facecolor':'k', 'pad':5},color='w',fontsize = 25)
+        plt.title("Genre's popularity",bbox={'facecolor':'k', 'pad':5},color='w',fontsize = 25)
 
         plt.show()
     
