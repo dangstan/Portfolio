@@ -10,6 +10,8 @@
 
 https://ourworldindata.org/coronavirus
 
-https://www.google.com/covid19/mobility/
+https://www.google.com/covid19/mobility/ **
 
 https://meta.icos-cp.eu/objects/Gv_ujn7Qo3AO5mxQdVupqtTG
+
+** It's essential to download the mobility dataset from google for the notebook to work correctly, since it has big files and I wasn't able to upload some of them.
