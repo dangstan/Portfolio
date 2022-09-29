@@ -1,7 +1,7 @@
 # Movie Recommender Project
 
 <font size="+4">Daniel Gomes Benjamim Rodrigues</font><br>
-<font size="+1.6">&#160;27 anos, brasileiro</font>
+<font size="+1.6">&#160;27, brazilian</font>
 <p>&nbsp;</p>
 For this project, it's used the dataset ml-latest-small downloaded from www.movielens.org. 
 
